@@ -8,7 +8,7 @@ ________________________________________________________________________________
 untuk source code bisa diakses pada github ini<br>
 untuk dokumentasi bisa dilihat melalui video di youtube yang saya buat<br>
 <br>
-===>>[link video](https://youtu.be/dS62Eg1lS54) <br>
+===>>[link dokumentasi](https://youtu.be/dS62Eg1lS54) <br>
 ===>>[demo web]()<br>
 <br>
 cuplikan tampilan 
