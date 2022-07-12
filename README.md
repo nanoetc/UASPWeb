@@ -9,8 +9,10 @@ untuk source code bisa diakses pada github ini<br>
 untuk dokumentasi bisa dilihat melalui video di youtube yang saya buat<br>
 <br>
 ===>>[link dokumentasi](https://youtu.be/dS62Eg1lS54) <br>
-===>>[demo web]()<br>
+===>>[demo web](http://bagustrih-upb.my.id/index)<br>
 <br>
+database table
+![db](ss/db.jpg)<br>
 cuplikan tampilan 
 ![1](ss/1.jpg)<br>
 ![2](ss/2.jpg)<br>
